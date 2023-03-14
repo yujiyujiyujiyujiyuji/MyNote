@@ -15,5 +15,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
-# https://github.com/yujiyujiyujiyujiyuji/MyNote.git
+
 # 杨蓉的个人网页
